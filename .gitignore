@@ -1,0 +1,8 @@
+# Configuration
+wp-config.php
+
+# Log files
+*.log
+
+# htaccess
+/.htaccess
